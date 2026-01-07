@@ -11,13 +11,13 @@ El objetivo principal es analizar el comportamiento de los clientes a través de
 Todo el análisis se realiza utilizando **SQL** y consultas analíticas avanzadas.
 
 ---
-
+```
 ## 🗂️ Estructura del Proyecto
 │   ├── cohort_analysis_view.sql
 │   ├── customer_segmentation.sql
 │   ├── cohort_analysis.sql
 │   └── retention_analysis.sql
-
+```
 ---
 
 ## 🧱 Fuente de Datos
